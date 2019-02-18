@@ -1,0 +1,140 @@
+2019-02-15 14:37:14 ERROR NameValidator:48 - 
+ 
+ com.exceptions.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-16 00:16:30 ERROR CreateDataBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-16 00:21:23 ERROR CreateDataBase:20 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-16 01:27:18 ERROR CreateDataBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-16 01:38:03 ERROR NameValidator:57 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-16 10:55:26 ERROR NameValidator:57 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 11:13:03 ERROR CreateDataBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-17 16:13:27 ERROR CreateDataBase:20 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-17 17:12:44 ERROR DeleteBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-17 17:19:36 ERROR DeleteBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-17 17:32:41 ERROR DeleteBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-17 20:37:54 ERROR NameValidator:57 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 20:50:37 ERROR NameValidator:57 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 20:57:56 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:06:21 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:07:47 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:08:31 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:11:46 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:14:52 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:15:18 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:17:40 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:18:47 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 21:46:43 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-17 22:05:03 ERROR NameValidator:78 - 
+ 
+ com.ncu.expections.FileAlreadyExists: fileExistsMessage"Oops.. Extension Is Messing.!"
+
+2019-02-17 22:08:33 ERROR NameValidator:78 - 
+ 
+ com.ncu.expections.FileAlreadyExists: fileExistsMessage"Oops.. CSV File Already Exists...!!!"
+
+2019-02-17 22:09:01 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-18 08:45:04 ERROR NameValidator:69 - 
+ 
+ com.ncu.expections.InvalidExtensionException: invalidException"Oops.. Either you have forgotten to given an extension or given extension is invalid..!"
+
+2019-02-18 08:48:32 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-18 08:50:18 ERROR NameValidator:78 - 
+ 
+ com.ncu.expections.FileAlreadyExists: fileExistsMessage"Oops.. CSV File Already Exists...!!!"
+
+2019-02-18 09:30:44 ERROR CreateDataBase:20 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-18 09:33:12 ERROR NameValidator:78 - 
+ 
+ com.ncu.expections.FileAlreadyExists: fileExistsMessage"Oops.. CSV File Already Exists...!!!"
+
+2019-02-18 10:38:49 ERROR CreateDataBase:20 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-18 10:39:17 ERROR CreateDataBase:20 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-18 10:39:47 ERROR CreateDataBase:20 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-18 10:57:23 ERROR DeleteBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-18 10:58:09 ERROR DeleteBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-18 11:11:00 ERROR DeleteBase:21 - 
+
+com.ncu.expections.InvaildDir: null
+2019-02-18 13:54:37 ERROR NameValidator:59 - 
+ 
+ com.ncu.expections.MissingExtensionException: MissingExtension"Oops.. Extension Is Messing.!"
+
+2019-02-18 13:58:38 ERROR CreateDataBase:20 - 
+
+com.ncu.expections.InvaildDir: null
